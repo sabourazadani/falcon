@@ -1,0 +1,5 @@
+// Created a git method
+ public void git(){
+
+   System.out.println("Displaying Git"); 
+}
